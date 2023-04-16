@@ -1,6 +1,5 @@
 #include "monty.h"
 
-
 /**
  * nop -  does nothing
  * @stack: doesnt matter
@@ -8,8 +7,6 @@
  *
  * Return: NOTHING
  */
-
-
 void nop(stack_t **stack, unsigned int line_cnt)
 {
 	(void) stack;
